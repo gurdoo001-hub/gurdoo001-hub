@@ -4,9 +4,9 @@
 
 **Developer | Problem Solver | Coffee Lover ☕**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://seu-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@example.com)
+<a href="https://www.linkedin.com/in/gustavo-dos-santos-40386a3b7/"><img alt= "logo-linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gurdoo001@gmail.com)
+<a href="https://app.netlify.com/teams/gurdoo001/projects"><img alt= "logo-portifolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://seu-portfolio.com"/></a>
 
 </div>
 
@@ -44,18 +44,6 @@ Desenvolvedor apaixonado por tecnologia, sempre em busca de aprender novas ferra
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USER_GITHUB&show_icons=true&theme=dracula&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER_GITHUB&layout=compact&theme=dracula&hide_border=true)
-
-</div>
-
----
-
 ## 📌 Projetos Destacados
 
 - **[Nome do Projeto](#)** — Descrição breve do que faz
@@ -65,15 +53,11 @@ Desenvolvedor apaixonado por tecnologia, sempre em busca de aprender novas ferra
 
 ## 🎓 **Certificações & Cursos**
 
-✅ [Certificação/Curso 1] — Plataforma (Ano)
+✅ [Certificação/HTML] — DevClub (2026)
 
-✅ [Certificação/Curso 2] — Plataforma (Ano)
+✅ [Certificação/CSS] — DevClub (2026)
 
-✅ [Certificação/Curso 3] — Plataforma (Ano)
-
-✅ [Certificação/Curso 4] — Plataforma (Ano)
-
-✅ [Certificação/Curso 5] — Plataforma (Ano)
+✅ [Certificação/GitHub] — DevClub (2026)
 
 ---
 
@@ -81,9 +65,12 @@ Desenvolvedor apaixonado por tecnologia, sempre em busca de aprender novas ferra
 
 Sinta-se livre para entrar em contato comigo através dos links abaixo!
 
-- **LinkedIn:** [seu-linkedin](https://linkedin.com/in/seu-perfil)
-- **Email:** [seu-email@example.com](mailto:seu-email@example.com)
-- **Portfolio:** [seu-site.com](https://seu-portfolio.com)
+<a href="https://www.linkedin.com/in/gustavo-dos-santos-40386a3b7/"><img alt= "logo-linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gurdoo001@gmail.com)
+
+
+<a href="https://app.netlify.com/teams/gurdoo001/projects"><img alt= "logo-portifolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://seu-portfolio.com"/></a>
 
 ---
 
