@@ -53,11 +53,11 @@ Desenvolvedor apaixonado por tecnologia, sempre em busca de aprender novas ferra
 
 ## 🎓 **Certificações & Cursos**
 
-✅ [Certificação/HTML] — DevClub (2026)
+<a href="https://raw.githubusercontent.com/gurdoo001-hub/gurdoo001-hub/bd6082a26bb3fc786f955c5e07440c5aa8378c88/assets/Certificado%20-%20HTML.png"><h1>✅ [Certificação/HTML] — DevClub (2026)</h1></a>
 
-✅ [Certificação/CSS] — DevClub (2026)
+<a href="https://raw.githubusercontent.com/gurdoo001-hub/gurdoo001-hub/bd6082a26bb3fc786f955c5e07440c5aa8378c88/assets/Certificado%20-%20CSS%20Intermedi%C3%A1rio.png"><h1>✅ [Certificação/CSS] — DevClub (2026)</h1></a>
 
-✅ [Certificação/GitHub] — DevClub (2026)
+<a href="https://raw.githubusercontent.com/gurdoo001-hub/gurdoo001-hub/bd6082a26bb3fc786f955c5e07440c5aa8378c88/assets/Certificado%20-%20Git%20%26%20GitHub.png"><h1>✅ [Certificação/GitHub] — DevClub (2026)</h1></a>
 
 ---
 
