@@ -5,7 +5,7 @@
 **Developer | Problem Solver | Coffee Lover ☕**
 
 <a href="https://www.linkedin.com/in/gustavo-dos-santos-40386a3b7/"><img alt= "logo-linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gurdoo001@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=gurdoo001@gmail.com)
 <a href="https://app.netlify.com/teams/gurdoo001/projects"><img alt= "logo-portifolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://seu-portfolio.com"/></a>
 
 </div>
@@ -66,8 +66,7 @@ Sinta-se livre para entrar em contato comigo através dos links abaixo!
 
 <a href="https://www.linkedin.com/in/gustavo-dos-santos-40386a3b7/"><img alt= "logo-linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gurdoo001@gmail.com)
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=gurdoo001@gmail.com)
 
 <a href="https://app.netlify.com/teams/gurdoo001/projects"><img alt= "logo-portifolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://seu-portfolio.com"/></a>
 
