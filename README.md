@@ -46,9 +46,8 @@ Desenvolvedor apaixonado por tecnologia, sempre em busca de aprender novas ferra
 
 ## 📌 Projetos Destacados
 
-- **[Nome do Projeto](#)** — Descrição breve do que faz
-- **[Outro Projeto](#)** — Outra descrição
-
+- **[Gerenciador de tarefas](https://github.com/gurdoo001-hub/organizador-de-tarefas.git)** — Organiza de maneira eficiente as suas tarefas do dia a dia
+- **[Organizador de contas por Voz](https://github.com/gurdoo001-hub/Organizador-de-Contas-por-voz.git)** — Uma criação inteligente que te ajuda a manter o controle dos gastos
 ---
 
 ## 🎓 Certificações & Cursos
